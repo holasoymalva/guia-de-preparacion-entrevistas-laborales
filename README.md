@@ -13,6 +13,8 @@
 
 ## 🎯 Plan de Acción
 
+El plan de acción está diseñado para proporcionarte una ruta de aprendizaje estructurada y progresiva. Cada fase se construye sobre la anterior, asegurando que desarrolles una base sólida antes de avanzar a temas más complejos. Este enfoque sistemático maximiza tu preparación y aumenta significativamente tus probabilidades de éxito en las entrevistas.
+
 ### Fase 1: Fundamentos (4 semanas)
 
 #### Objetivos:
