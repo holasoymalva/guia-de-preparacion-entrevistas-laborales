@@ -171,6 +171,34 @@ El plan de acción está diseñado para proporcionarte una ruta de aprendizaje e
 3. Realiza tus cambios
 4. Envía un pull request
 
+### Next Steps 
+Se estara trabajando en desarrollar distintos contenidos para complementar este repositorio. 🙌
+
+```
+/guia-de-preparacion-entrevistas-laborales
+├── README.md (guía principal actual)
+├── /estructuras-de-datos
+│   ├── arrays.md
+│   ├── linked-lists.md
+│   ├── trees.md
+│   └── ...
+├── /algoritmos
+│   ├── sorting.md
+│   ├── searching.md
+│   └── ...
+├── /system-design
+│   ├── basic-concepts.md
+│   ├── case-studies.md
+│   └── ...
+├── /recursos
+│   ├── libros.md
+│   ├── cursos.md
+│   └── plataformas.md
+└── /ejercicios
+    ├── coding-challenges.md
+    └── mock-interviews.md
+```
+
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
